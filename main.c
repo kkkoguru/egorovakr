@@ -1,1 +1,3 @@
-int main;sdgedsjflu
+#include <iostream>
+
+using namespase std;
